@@ -1,5 +1,8 @@
 _repo: The-World-s-Greatest-Books---Volume-12---Modern-History_12845
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: Hammerton, John Alexander, Sir
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4518
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Mee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12845#The-World-s-Greatest-Books---Volume-12---Modern-History
 gutenberg_issued: '2004-07-07'
 gutenberg_type: Text
 identifiers:
